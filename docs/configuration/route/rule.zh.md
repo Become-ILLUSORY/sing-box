@@ -108,6 +108,7 @@ icon: material/alert-decagram
           "geosite-cn"
         ],
         "invert": false,
+        "skip_resolve": false,
         "outbound": "direct"
       },
       {
@@ -115,6 +116,7 @@ icon: material/alert-decagram
         "mode": "and",
         "rules": [],
         "invert": false,
+        "skip_resolve": false,
         "outbound": "direct"
       }
     ]
@@ -309,6 +311,10 @@ icon: material/alert-decagram
 #### invert
 
 反选匹配结果。
+
+#### skip_resolve
+
+跳过域名解析。
 
 #### outbound
 
