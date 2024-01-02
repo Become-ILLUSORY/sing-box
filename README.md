@@ -298,3 +298,7 @@ Rules 支持匹配 Tag 或 Type：
   ]
 }
 ```
+
+### Rule Provider Clash API
+
+```RuleSet``` 适配了 ```Clash API```
